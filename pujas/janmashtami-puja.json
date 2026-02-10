@@ -1,0 +1,245 @@
+{
+  "id": "janmashtami-puja",
+  "name": "जन्माष्टमी पूजा",
+  "nameEn": "Janmashtami Puja",
+  "deity": "Krishna",
+  "occasion": "जन्माष्टमी",
+  "occasionEn": "Janmashtami",
+  "category": "annual",
+  "estimatedDurationMinutes": 40,
+  "difficulty": "intermediate",
+  "significance": "जन्माष्टमी के दिन भगवान कृष्ण का जन्मोत्सव मनाया जाता है। इस पूजा से भक्ति और आनन्द की प्राप्ति होती है।",
+  "significanceEn": "Janmashtami celebrates the birth of Lord Krishna. This puja brings devotion and joy.",
+  "samagri": [
+    { "item": "फूल", "itemEn": "Flowers", "essential": true },
+    { "item": "तुलसी", "itemEn": "Tulsi", "essential": true },
+    { "item": "धूप", "itemEn": "Incense", "essential": true },
+    { "item": "दीप", "itemEn": "Lamp", "essential": true },
+    { "item": "चंदन", "itemEn": "Sandalwood", "essential": false },
+    { "item": "अक्षत", "itemEn": "Akshata", "essential": true },
+    { "item": "दही-मक्खन", "itemEn": "Curd and butter", "essential": false },
+    { "item": "नैवेद्य", "itemEn": "Naivedya", "essential": false }
+  ],
+  "sections": [
+    {
+      "id": "sankalp",
+      "title": "संकल्प",
+      "titleEn": "Sankalp",
+      "purpose": "पूजा का संकल्प",
+      "purposeEn": "Declaration of intention",
+      "steps": [
+        {
+          "id": "sankalp-1",
+          "type": "instruction",
+          "instruction": "पूजा स्थल स्वच्छ करें। झूला या मंच सजाएं (कृष्ण जन्म के लिए)।",
+          "instructionEn": "Clean the puja area. Decorate a swing or platform for Krishna's birth.",
+          "mantra": null,
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "sankalp-2",
+          "type": "mantra",
+          "instruction": "जन्माष्टमी संकल्प",
+          "instructionEn": "Janmashtami sankalp",
+          "mantra": {
+            "lines": ["ॐ विष्णुः। अद्य श्री कृष्णजन्माष्टम्यां शुभदिने अहं श्रीकृष्णप्रीत्यर्थं पूजनं करिष्ये।"],
+            "transliteration": ["Om Vishnuh. Adya Shri Krishnajanmashtamyam shubhadine aham Shri Krishna-preetyartham pujanam karishye."],
+            "meaning": "आज जन्माष्टमी के शुभ दिन मैं श्री कृष्ण की प्रसन्नता के लिए पूजन करूंगा।",
+            "meaningEn": "Today on Janmashtami I will perform puja for the pleasure of Shri Krishna.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "ganesh-puja",
+      "title": "गणेश पूजा",
+      "titleEn": "Ganesh Puja",
+      "purpose": "विघ्न निवारण",
+      "purposeEn": "Removal of obstacles",
+      "steps": [
+        {
+          "id": "ganesh-1",
+          "type": "mantra",
+          "instruction": "गणेश आवाहन",
+          "instructionEn": "Invoke Ganesha",
+          "mantra": {
+            "lines": ["ॐ गं गणपतये नमः। श्रीविघ्नेश्वराय नमः यथास्थानं प्रतिष्ठापयामि।"],
+            "transliteration": ["Om Gan Ganapataye Namah. Shri Vighneshwaraya Namah yathasthanam pratishthapayami."],
+            "meaning": "गणेश जी को नमस्कार; विघ्नेश्वर को स्थापित करता हूँ।",
+            "meaningEn": "Salutations to Ganesha; I establish Vighneshwara.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "dhyana",
+      "title": "कृष्ण ध्यान",
+      "titleEn": "Krishna Meditation",
+      "purpose": "श्री कृष्ण का ध्यान",
+      "purposeEn": "Meditate on Krishna",
+      "steps": [
+        {
+          "id": "dhyana-1",
+          "type": "mantra",
+          "instruction": "कृष्ण ध्यान मंत्र",
+          "instructionEn": "Krishna dhyana mantra",
+          "mantra": {
+            "lines": ["वन्दे वृन्दावनचन्द्रं गोपीभिर्वृतं वनौकसम्। श्रीकृष्णं कंसविध्वंसं देवकीनन्दनं हरिम्॥", "श्रीकृष्णाय नमः – ध्यायामि।"],
+            "transliteration": ["Vande Vrindavanachandram gopibhirvritam vanaukasam. Shri Krishnam Kansa-vidhwamsam Devaki-nandanam Harim.", "Shri Krishnaya Namah – dhyayami."],
+            "meaning": "वृन्दावन के चन्द्रमा, गोपियों से घिरे श्री कृष्ण का ध्यान करें।",
+            "meaningEn": "Meditate on Krishna, moon of Vrindavan, surrounded by the gopis.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "avahan",
+          "type": "mantra",
+          "instruction": "कृष्ण आवाहन",
+          "instructionEn": "Invoke Krishna",
+          "mantra": {
+            "lines": ["आवाहयामि भगवन्तं कृष्णं देवकीनन्दनम्। वसुदेवसुतं विष्णुं नन्दगोपप्रियं हरिम्॥", "श्रीकृष्णाय नमः – आवाहयामि।"],
+            "transliteration": ["Avahayami bhagavantam Krishnam Devaki-nandanam. Vasudeva-sutam Vishnum Nanda-gopa-priyam Harim.", "Shri Krishnaya Namah – avahayami."],
+            "meaning": "देवकी नन्दन, वसुदेव के पुत्र श्री कृष्ण का आवाहन करता हूँ।",
+            "meaningEn": "I invoke Krishna, son of Devaki and Vasudeva.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "shodashopachar",
+      "title": "षोडशोपचार",
+      "titleEn": "Sixteen Offerings",
+      "purpose": "सोलह उपचार",
+      "purposeEn": "Sixteen offerings",
+      "steps": [
+        {
+          "id": "op-1",
+          "type": "offering_sequence",
+          "instruction": "आसन, पाद्य, अर्घ्य, पुष्प",
+          "instructionEn": "Asan, Padya, Arghya, Flowers",
+          "mantra": null,
+          "offerings": [
+            { "name": "आसन", "nameEn": "Seat", "what": "आसनं", "whatEn": "Asana", "shloka": null, "mantra": "श्रीकृष्णाय नमः, आसनं समर्पयामि।" },
+            { "name": "पाद्य", "nameEn": "Padya", "what": "पाद्यं", "whatEn": "Water for feet", "shloka": null, "mantra": "श्रीकृष्णाय नमः, पाद्यं समर्पयामि।" },
+            { "name": "अर्घ्य", "nameEn": "Arghya", "what": "अर्घ्यं", "whatEn": "Arghya", "shloka": null, "mantra": "श्रीकृष्णाय नमः, अर्घ्यं समर्पयामि।" },
+            { "name": "पुष्प", "nameEn": "Pushpa", "what": "पुष्पाणि", "whatEn": "Flowers", "shloka": null, "mantra": "श्रीकृष्णाय नमः, पुष्पाणि समर्पयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-2",
+          "type": "mantra",
+          "instruction": "कृष्ण मंत्र",
+          "instructionEn": "Krishna mantra",
+          "mantra": {
+            "lines": ["ॐ नमो भगवते वासुदेवाय।", "ॐ क्लीं कृष्णाय नमः।"],
+            "transliteration": ["Om Namo Bhagavate Vasudevaya.", "Om Kleem Krishnaya Namah."],
+            "meaning": "वासुदेव को नमस्कार। कृष्ण मंत्र।",
+            "meaningEn": "Salutations to Vasudeva. Krishna mantra.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-3",
+          "type": "offering_sequence",
+          "instruction": "धूप, दीप, नैवेद्य, नीराजन",
+          "instructionEn": "Dhupa, Deepa, Naivedya, Aarti",
+          "mantra": null,
+          "offerings": [
+            { "name": "धूप", "nameEn": "Dhupa", "what": "धूपम्", "whatEn": "Incense", "shloka": null, "mantra": "श्रीकृष्णाय नमः, धूपमाघ्रापयामि।" },
+            { "name": "दीप", "nameEn": "Deepa", "what": "दीपं", "whatEn": "Lamp", "shloka": null, "mantra": "श्रीकृष्णाय नमः, दीपं दर्शयामि।" },
+            { "name": "नैवेद्य", "nameEn": "Naivedya", "what": "नैवेद्यं", "whatEn": "Food offering", "shloka": null, "mantra": "श्रीकृष्णाय नमः, नैवेद्यं निवेदयामि।" },
+            { "name": "नीराजन", "nameEn": "Nirajana", "what": "कर्पूर-नीराजनं", "whatEn": "Camphor aarti", "shloka": null, "mantra": "श्रीकृष्णाय नमः, कर्पूरनीराजनं दर्शयामि।" }
+          ],
+          "names": null,
+          "media": null,
+          "translations": null
+        },
+        {
+          "id": "op-4",
+          "type": "mantra",
+          "instruction": "प्रदक्षिणा एवं नमस्कार",
+          "instructionEn": "Pradakshina and Namaskar",
+          "mantra": {
+            "lines": ["कृष्णाय वासुदेवाय हरये परमात्मने। प्रणतक्लेशनाशाय गोविन्दाय नमो नमः॥", "श्रीकृष्णाय नमः, नमस्कारान् समर्पयामि।"],
+            "transliteration": ["Krishnaya Vasudevaya Haraye paramatmane. Pranata-klesha-nashaya Govindaya namo namah.", "Shri Krishnaya Namah, namaskaran samarpayami."],
+            "meaning": "कृष्ण, वासुदेव, गोविन्द को नमस्कार।",
+            "meaningEn": "Salutations to Krishna, Vasudeva, Govinda.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    },
+    {
+      "id": "visarjan",
+      "title": "विसर्जन",
+      "titleEn": "Farewell",
+      "purpose": "विसर्जन",
+      "purposeEn": "Farewell",
+      "steps": [
+        {
+          "id": "visarjan-1",
+          "type": "mantra",
+          "instruction": "विसर्जन मंत्र",
+          "instructionEn": "Visarjan mantra",
+          "mantra": {
+            "lines": ["यस्य स्मृत्या च नामोक्त्या तपः-पूजा-क्रियादिषु। न्यूनं सम्पूर्णतां याति सद्यो वन्दे तमच्युतम्॥", "अनया पूजया श्रीकृष्णः प्रीयताम्। ॐ तत्सद्ब्रह्मार्पणमस्तु।"],
+            "transliteration": ["Yasya smritya cha namoktya tapah-puja-kriyadishu. Nyunam sampurnatam yati sadyo vande tamachyutam.", "Anaya pujaya Shri Krishnah priyatam. Om tatsad brahmarpanamastu."],
+            "meaning": "जिनकी स्मृति से पूजा पूर्ण हो जाती है, उन अच्युत को वन्दन। श्री कृष्ण प्रसन्न हों।",
+            "meaningEn": "Salutations to the one whose remembrance completes worship. May Shri Krishna be pleased.",
+            "translations": null
+          },
+          "offerings": null,
+          "names": null,
+          "media": null,
+          "translations": null
+        }
+      ],
+      "translations": null
+    }
+  ],
+  "metadata": {
+    "source": "Based on puja-vidhanam (Janmashtami). Sadhana app – remote test.",
+    "version": "1.0",
+    "lastUpdated": "2025-02-09",
+    "includesVedicMantras": false,
+    "noteOnVedicMantras": null
+  },
+  "translations": null
+}
